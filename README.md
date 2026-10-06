@@ -24,3 +24,30 @@ Tastenkombination
     ├── Tastenkombination erfassen
     ├── Ergebnis anzeigen
     └── Statistik anzeigen
+
+Aufgabe
+│
+├── ID: 1
+├── Beschreibung: "Windows Explorer öffnen"
+├── Tastenkombination: WIN + E
+├── Kategorie: Windows
+├── Schwierigkeit: leicht
+└── Fehler: 0
+
+
+Statistik
+│
+├── Aufgabe
+├── Anzahl Versuche
+├── Anzahl Fehler
+├── durchschnittliche Zeit
+└── zuletzt geübt
+
+WINDOWS + E
+
+Versuche:        12
+Richtig:         10
+Falsch:           2
+Fehlerquote:    16,7 %
+Ø Antwortzeit:   2,8 s
+Beste Zeit:      1,3 s
