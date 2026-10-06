@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "description": "Kopieren",
+    "answer": "strg+c"
+  },
+  {
+    "id": 2,
+    "description": "Einfügen",
+    "answer": "strg+v"
+  },
+  {
+    "id": 3,
+    "description": "Ausschneiden",
+    "answer": "strg+x"
+  },
+  {
+    "id": 4,
+    "description": "Rückgängig machen",
+    "answer": "strg+z"
+  },
+  {
+    "id": 5,
+    "description": "Alles markieren",
+    "answer": "strg+a"
+  },
+  {
+    "id": 6,
+    "description": "Speichern",
+    "answer": "strg+s"
+  },
+  {
+    "id": 7,
+    "description": "Suchen",
+    "answer": "strg+f"
+  },
+  {
+    "id": 8,
+    "description": "Drucken",
+    "answer": "strg+p"
+  },
+  {
+    "id": 9,
+    "description": "Neues Fenster oder neues Dokument öffnen",
+    "answer": "strg+n"
+  },
+  {
+    "id": 10,
+    "description": "Zwischen geöffneten Programmen wechseln",
+    "answer": "alt+tab"
+  },
+  {
+    "id": 11,
+    "description": "Aktives Fenster schließen",
+    "answer": "alt+f4"
+  },
+  {
+    "id": 12,
+    "description": "Datei-Explorer öffnen",
+    "answer": "win+e"
+  },
+  {
+    "id": 13,
+    "description": "Windows-Einstellungen öffnen",
+    "answer": "win+i"
+  },
+  {
+    "id": 14,
+    "description": "Computer sperren",
+    "answer": "win+l"
+  },
+  {
+    "id": 15,
+    "description": "Desktop anzeigen",
+    "answer": "win+d"
+  },
+  {
+    "id": 16,
+    "description": "Ausführen-Fenster öffnen",
+    "answer": "win+r"
+  },
+  {
+    "id": 17,
+    "description": "Task-Manager öffnen",
+    "answer": "strg+umschalt+esc"
+  },
+  {
+    "id": 18,
+    "description": "Screenshot-Ausschnitt öffnen",
+    "answer": "win+umschalt+s"
+  },
+  {
+    "id": 19,
+    "description": "Taskansicht öffnen",
+    "answer": "win+tab"
+  },
+  {
+    "id": 20,
+    "description": "Neuen Ordner erstellen",
+    "answer": "strg+umschalt+n"
+  }
+]
